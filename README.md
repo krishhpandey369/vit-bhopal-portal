@@ -68,7 +68,7 @@ The system is built as a single-page application with a live Firebase backend, m
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Site](https://yourusername.github.io/vit-bhopal-campus-portal/)**
+🔗 **[View Live Site](https://krishhpandey369.github.io/vit-bhopal-portal/)**
 
 ---
 
