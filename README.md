@@ -58,8 +58,8 @@ The system is built as a single-page application with a live Firebase backend, m
 
 | Layer          | Technology                              |
 |----------------|------------------------------------------|
-| Frontend       | HTML5, CSS3, Vanilla JavaScript          |
-| Backend/Database | Firebase Firestore (NoSQL, real-time)  |
+| Frontend       | HTML         |
+| Backend/Database | Firebase Firestore  |
 | Authentication | Firebase Authentication                  |
 | Hosting        | GitHub Pages                             |
 | Icons/Fonts    | Font Awesome, Google Fonts (Inter)       |
